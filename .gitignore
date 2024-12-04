@@ -5,3 +5,5 @@
 **/.mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 **/.mvn/wrapper/maven-wrapper.jar
+**/.editorconfig
+**/.DS_Store
